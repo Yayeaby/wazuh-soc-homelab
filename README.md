@@ -84,7 +84,7 @@ Les attaques réseau et applicatives (brute force, XSS) sont détectées quasi i
 
 ## Documentation complète
 
-Le rapport détaillé avec l'ensemble des captures commentées est disponible dans le fichier documentation_projet_wazuh.pdf à la racine du dépôt.
+Le rapport détaillé avec l'ensemble des captures commentées est disponible dans le fichier [documentation_projet_wazuh.pdf](./Doc/documentation_projet_wazuh.pdf).
 
 ## Compétences démontrées
 
